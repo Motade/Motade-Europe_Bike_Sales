@@ -40,9 +40,13 @@ The dataset is sourced from [Kaggle](https://www.kaggle.com/datasets/prepinstapr
 
 ## RESULTS AND FINDINGS
 1. Total revenue and profit breakdown by product category: When analyzing the revenue and profit figures categorized by product, it becomes evident that the bikes category takes the lead, bringing in an impressive $69,208,196 in revenue, accounting for a significant 66.34% of the company's total profit. Following closely, the accessories category generates $16,712,646 in revenue, contributing to 24.82% of the company's profit. Meanwhile, the clothing category records $9,255,476 in revenue, constituting 8.84% of the profit.
+
+   
 ![image](https://github.com/Motade/Motade-Europe_Bike_Sales/assets/114887240/ca77fe2a-896a-409b-8e22-809f0e101b3b)
 
-2. Top-performing countries in revenue and profit: The company achieved its highest revenue of $30,814,774 in the United States, closely followed by Australia, which generated $25,427,586. The list of the top 5 highest-performing countries is provided below;
+3. Top-performing countries in revenue and profit: The company achieved its highest revenue of $30,814,774 in the United States, closely followed by Australia, which generated $25,427,586. The list of the top 5 highest-performing countries is provided below;
+
+   
 ![image](https://github.com/Motade/Motade-Europe_Bike_Sales/assets/114887240/65f99f6e-0ad2-45ac-8736-7eaa2ce33a72)
 
 ## RECOMMENDATIONS
